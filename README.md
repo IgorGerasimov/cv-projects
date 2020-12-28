@@ -35,6 +35,12 @@ Diligence and dedication, responsibility, keen interest and desire to solve the 
 - **containers**:    docker, docker-compose, kubernetes
 - **language ability**:    native Russian, native Ukrainian, upper-intermediate English, Low Polish and Spanish.
 
+Key-used technologies and tools: 
+ - linux - up 10 years of using, ubuntu/debual preferable.
+ - kubernetes ( EKS, GKE, kops, kubespray ) ~ 4 years of usage, up-to 250 nodes in cluster, using as preview-env's, full setup with Terraform.
+ - terraform ( 11,12,13 ) - 4 years of dayly usage, creating of modules.
+ - continuous delivery - 6 years of implementation with Jenkins, gitlab-ci, tekton, etc. 
+
 Experience included:
 Planning project architectures, environments, CI & CD pipelines, etc;  
 Setup of cloud environments, bare metal servers, operating systems;  
