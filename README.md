@@ -37,6 +37,8 @@ Diligence and dedication, responsibility, keen interest and desire to solve the 
 
 Key-used technologies and tools: 
  - linux - up 10 years of using, ubuntu/debual preferable.
+ - aws ~ 7 years of day-to-day usage of ec2, s3, vpc, Lambdas, API GW, RDS, Elasticsearch, EKS and many other.
+ - gcp ~ 2-3 years of expirience.
  - kubernetes ( EKS, GKE, kops, kubespray ) ~ 4 years of usage, up-to 250 nodes in cluster, using as preview-env's, full setup with Terraform.
  - terraform ( 11,12,13 ) - 4 years of dayly usage, creating of modules.
  - continuous delivery - 6 years of implementation with Jenkins, gitlab-ci, tekton, etc. 
