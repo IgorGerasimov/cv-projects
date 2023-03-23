@@ -50,10 +50,11 @@ Key-used technologies and tools:
  - continuous delivery - 6 years of implementation with Jenkins, gitlab-ci, argoCD, flux, etc. 
 
 Experience included:
-Planning project architectures, environments, CI & CD pipelines, etc;  
-Setup of cloud environments, bare metal servers, operating systems;  
-Improvement of develop and deployment cycles;  
-Consulting for developers teams; 
+
+- Planning project architectures, environments, CI & CD pipelines, etc;  
+- Setup of cloud environments, bare metal servers, operating systems;  
+- Improvement of develop and deployment cycles;  
+- Consulting for developers teams; 
 
 Configuration and automation of services like:
 - cloud native apps principals
