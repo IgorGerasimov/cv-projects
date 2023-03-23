@@ -40,25 +40,20 @@ Key-used technologies and tools:
  - aws ~ 10 years of day-to-day usage vof arious aws servies - eks, ec2, rds, cloudApi, efs and many others.
  - gcp ~ 2-3 years of expirience.
  - kubernetes ( EKS, GKE, kops, kubespray ) ~ 5 years of usage, up-to 250 nodes in cluster, PR based environmets ( preview or dynamical ), full setup with Terraform and Terragrunt.
- - terraform ( 11,12,13 ) - 4 years of dayly usage, creating of modules.
+ - terraform ( 11,12,13 ) - 6 years of dayly usage, creating of modules.
  - continuous delivery - 6 years of implementation with Jenkins, gitlab-ci, argoCD, flux, etc. 
 
 Experience included:
 Planning project architectures, environments, CI & CD pipelines, etc;  
 Setup of cloud environments, bare metal servers, operating systems;  
 Improvement of develop and deployment cycles;  
-Consulting for developers teams;  
-Implementation of local test environments with docker and docker stuff
+Consulting for developers teams; 
 
 Configuration and automation of services like:
+- cloud native apps principals
 - cloud and apps architecture
-- jenkins, jenkins-x, gitlab-ci, tekton, github actions 
-- automation with ansible and saltstack, terraform and terragrunt
-- various observability systems based on prometheus, telegraf, ELK, TICK stack, 
+- delivery processes - gitops as well 
 - various web servers topologies
-- postgres replication with auto failover
-- mongodb cluster with shardes
-- redis replication with auto failover
 - load balancing with
 and many more ;)
 
