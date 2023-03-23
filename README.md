@@ -41,10 +41,12 @@ Key-used technologies and tools:
  - gcp ~ 2-3 years of expirience.
  - kubernetes ( EKS, GKE, kops, kubespray ) ~ 5 years of usage, up-to ~250 nodes in cluster, PR based environmets ( preview or dynamical ), full setup with Terraform and Terragrunt. Of course I used KEDA and Karpenter as scaling solution, aws scaler as well. 
  - terraform - 6 years of daily usage. Of course I wrote modules, basic and more complex logical - described platform part - auth stack: 
+ ```
      elastiCashe as storage
      kubernetes app 
      apigateway as endpoint 
      s3 as static storage 
+```
  - continuous delivery - 6 years of implementation with Jenkins, gitlab-ci, argoCD, flux, etc. 
 
 Experience included:
