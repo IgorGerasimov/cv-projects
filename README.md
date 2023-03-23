@@ -30,18 +30,18 @@ Diligence and dedication, responsibility, keen interest and desire to solve the 
 **Preferred**: linux, golang, kubernetes ( wide range distros), clouds.
 
 - **environment**: baremetal, aws, gce
-- **deploy**:    ansible, helm 
-- **monitoring**:    prometheus, telegraf, ELK
+- **deploy**:    ansible, helm, 
+- **monitoring**:    datadog, prometheus+exporters, telegraf, ELK stack and some others.
 - **containers**:    docker, docker-compose, kubernetes
-- **language ability**:    native Russian, native Ukrainian, upper-intermediate English, Low Polish and Spanish.
+- **language ability**:   fluent english, ukr, rus
 
 Key-used technologies and tools: 
- - linux - up 10 years of using, ubuntu/debual preferable.
- - aws ~ 7 years of day-to-day usage of ec2, s3, vpc, Lambdas, API GW, RDS, Elasticsearch, EKS and many other.
+ - linux - up 10 years of using, ubuntu/debian preferable.
+ - aws ~ 10 years of day-to-day usage vof arious aws servies - eks, ec2, rds, cloudApi, efs and many others.
  - gcp ~ 2-3 years of expirience.
- - kubernetes ( EKS, GKE, kops, kubespray ) ~ 4 years of usage, up-to 250 nodes in cluster, using as preview-env's, full setup with Terraform.
+ - kubernetes ( EKS, GKE, kops, kubespray ) ~ 5 years of usage, up-to 250 nodes in cluster, PR based environmets ( preview or dynamical ), full setup with Terraform and Terragrunt.
  - terraform ( 11,12,13 ) - 4 years of dayly usage, creating of modules.
- - continuous delivery - 6 years of implementation with Jenkins, gitlab-ci, tekton, etc. 
+ - continuous delivery - 6 years of implementation with Jenkins, gitlab-ci, argoCD, flux, etc. 
 
 Experience included:
 Planning project architectures, environments, CI & CD pipelines, etc;  
@@ -64,8 +64,29 @@ and many more ;)
 
 Latest projects:
 
+### Surprise.com https://surprise.com/
 
-### theguarantors.com 
+Lead infra devops: 
+ - day-to-day planning 
+ - tech expertise and ling term planning 
+ - defining of tech stack and processes used by team 
+ - migration to 4 aws accounts from ~30 and reducing of costs and usage difficulty 
+ - designing of observability solution - based on datadog, apm, prometheus+exporters, grafana mimir
+ - creating of generic app template - including helm, argo, jenkins templates for easy setup
+ - redesign Terraform/Terragrunt repo structures and design
+ - and of cource basic devops work 
+
+### celsius.network https://celsius.network/
+
+Senior devops/Lead devops:
+ - day-to-day and long term planning
+ - hiring interviews 
+ - growing infrastructure according to company targets
+ - implementing of gitops - argocd, customize and some other tools
+ - improwing of security measures
+ - regular devops work 
+
+### theguarantors.com https://www.theguarantors.com/
 
 Responsibilities included:
 
